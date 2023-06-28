@@ -1,0 +1,24 @@
+
+
+ol {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 150px;
+    margin: 20px 0;
+}
+
+.lista {
+    width: 400px;
+    border: 2px dotted rgb(201, 201, 201);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 20px;
+    border-radius: 20px;
+}
